@@ -1,15 +1,16 @@
-# Weather Data Visualization
+Python for AI
 
-A Python project that fetches weather data using an API and visualizes it using Matplotlib.
+This repository contains my Python learning journey and projects.
 
-## Features
-- Fetch weather data
-- Process data with Pandas
-- Create visual charts
-- Save charts as PNG images
+Projects:
+1. Weather Data Visualization
+2. Sales Data Analyzer
+3. Python Fundamentals Practice
 
-## Technologies
+Skills:
 - Python
 - Pandas
-- Matplotlib
-- Requests
+- Data Analysis
+- File Handling
+- APIs
+- Git & GitHub
